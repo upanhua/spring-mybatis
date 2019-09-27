@@ -1,0 +1,2 @@
+# spring-mybatis
+通过自己去模拟spring和mybatis进行整合，主要涉及的知识点为：factoryBean、BeanFactoryPostProcessor、ImportBeanDefinitionRegistrar。从代码上去步步测试mybatis的整合过程，值得研究。
